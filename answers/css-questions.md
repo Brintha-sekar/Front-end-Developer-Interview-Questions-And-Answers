@@ -2,7 +2,7 @@
 
 #### What is the difference between classes and ID's in CSS?
 
-*Not answered yet*
+An `ID`(#) is unique and can only be used once, where as a `class` (.) can be used multiple times and is used to denote a category of elements. Ids are used when you want to select only one specific element, while classes can select all items given that class name.
 
 #### What's the difference between "resetting" and "normalizing" CSS? Which would you choose, and why?
 
